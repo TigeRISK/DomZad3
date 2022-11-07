@@ -1,0 +1,15 @@
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\bin\Debug\net6.0\Zadacha23.exe
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\bin\Debug\net6.0\Zadacha23.deps.json
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\bin\Debug\net6.0\Zadacha23.runtimeconfig.json
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\bin\Debug\net6.0\Zadacha23.dll
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\bin\Debug\net6.0\Zadacha23.pdb
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\obj\Debug\net6.0\Zadacha23.csproj.AssemblyReference.cache
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\obj\Debug\net6.0\Zadacha23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\obj\Debug\net6.0\Zadacha23.AssemblyInfoInputs.cache
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\obj\Debug\net6.0\Zadacha23.AssemblyInfo.cs
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\obj\Debug\net6.0\Zadacha23.csproj.CoreCompileInputs.cache
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\obj\Debug\net6.0\Zadacha23.dll
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\obj\Debug\net6.0\refint\Zadacha23.dll
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\obj\Debug\net6.0\Zadacha23.pdb
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\obj\Debug\net6.0\Zadacha23.genruntimeconfig.cache
+C:\Users\tiger\Downloads\gb\Знакомство с языками программирования (семинары)\Homework\DomZad3\Zadacha23\obj\Debug\net6.0\ref\Zadacha23.dll
